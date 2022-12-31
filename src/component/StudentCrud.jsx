@@ -259,46 +259,6 @@ function StudentCrud({ history }) {
                   </div>
                 </div>
               </div>
-
-              {/* <div className="form-group row p-2 m-2">
-                <label>Name</label>
-                <input
-                  id="txtName"
-                  name="name"
-                  placeholder="Enter Name"
-                  type="text"
-                  className="form-control"
-                  onChange={changeHandler}
-                  value={studentForm?.name || ""}
-                />
-                <p className="text-danger"></p>
-              </div>
-              <div className="form-group row p-2 m-2">
-                <label>Age</label>
-                <input
-                  id="txtAddress"
-                  name="age"
-                  placeholder="Enter Age"
-                  type="number"
-                  className="form-control"
-                  onChange={changeHandler}
-                  value={studentForm?.age || ""}
-                />
-                <p className="text-danger"></p>
-              </div>
-              <div className="form-group row p-2 m-2">
-                <label>Email</label>
-                <input
-                  id="txtSalary"
-                  name="email"
-                  placeholder="Enter Email"
-                  type="text"
-                  className="form-control"
-                  onChange={changeHandler}
-                  value={studentForm?.email || ""}
-                />
-                <p className="text-danger"></p>
-              </div> */}
             </div>
           </div>
         </div>
